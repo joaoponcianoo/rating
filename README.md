@@ -1,2 +1,2 @@
 # rating
- Challenf of Frontend Mentor
+ Challeng of Frontend Mentor
